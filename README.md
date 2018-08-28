@@ -8,7 +8,7 @@ Visual Studio Coode の初期設定。
 
 ## 基本設定 (User Settings)
 
-ユーザー、ワークスペース設定は環境に合わせてお好みで。
+ユーザー、ワークスペース設定は環境に合わせてお好みで。
 
 
 ### 設定
@@ -19,7 +19,7 @@ Visual Studio Coode の初期設定。
 
 ## 拡張機能 一括インストール
 
-コマンドプロント(Windows) またはターミナル(mac) で下記を実行
+コマンドプロント(Windows) またはターミナル(mac) で下記を実行
 
 ```sh
 
@@ -28,7 +28,7 @@ $ sh install_extensions.sh
 
 ```
 
-※ macはターミナルで `code` コマンドを実行できるよう下記手順を取る
+※ macはターミナルで `code` コマンドを実行できるよう下記手順を取る
 https://qiita.com/naru0504/items/c2ed8869ffbf7682cf5c
 
 ## 拡張機能のエクスポート
